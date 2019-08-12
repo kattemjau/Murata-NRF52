@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : WSM-BL241-ADA-008.LibPkg
+
+Section : C:\Users\XPS\Downloads\Murata-NRF52\WSM-BL241-ADA-008.lia
+    Section : PCB Library - WSM-BL241-ADA-008.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token WSM-BL241-ADA-008 On Line 228
+            Warning - 1 : Skipping Token attachedSymbol On Line 605
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - WSM-BL241-ADA-008.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 135
+            Warning - 1 : Skipping Token layerContents On Line 155
+            Warning - 1 : Skipping Token layerContents On Line 175
+            Warning - 1 : Skipping Token layerContents On Line 195
+            Warning - 1 : Skipping Token layerContents On Line 204
+            Warning - 1 : Skipping Token layerContents On Line 213
+            Warning - 1 : Skipping Token layerContents On Line 219
+        EndSection
+
+        Section : Generating SCH Library - WSM-BL241-ADA-008.SchLib
+        EndSection
+    EndSection
+EndSection
