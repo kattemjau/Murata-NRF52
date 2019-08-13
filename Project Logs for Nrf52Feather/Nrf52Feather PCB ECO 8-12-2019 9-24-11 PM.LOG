@@ -1,0 +1,34 @@
+Added Component: Designator=P1(HDR_2x5-SMD-1.27mm-K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "55010009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "HDR_2x5-SMD-1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\hizz\pro\app9717\Datasheet\connectores\W-CON\3132-XXMXXBK00XX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2016-04-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3132-10MS0BK00R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Pin Header 2x5 SMD, 1.27mm, KS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2016-01-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Cabcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3132-10MS0BK00R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Pin Header 2x5, 1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=SWDCLK Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=SWO Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=RESET Pin=P1-10
+Added Member To Class: ClassName=Nrf52Feather Member=Component P1 Pin Header 2x5, 1.27mm
+Added Room: Name=Nrf52Feather
