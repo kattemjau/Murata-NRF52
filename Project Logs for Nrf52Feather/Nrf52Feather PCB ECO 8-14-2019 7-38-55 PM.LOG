@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VBAT Pin=Feather Shield-14
+Change Component Comment : Designator=J1 Old Comment=JST 1mm New Comment=PRT-14417
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Description : Designator=J1 Old Description= New Description=PRT-14417, jst sh 1mm 4 pin
+Added Pin To Net: NetName=RESET Pin=Feather Shield-1
+Added Pin To Net: NetName=RX Pin=Feather Shield-14
+Added Pin To Net: NetName=TX Pin=Feather Shield-15
+Added Pin To Net: NetName=VBAT Pin=Feather Shield-17
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=VBAT Pin=U1-10
+Change Net Name : Old Net Name=NetLabel112 New Net Name=SCL
+Change Net Name : Old Net Name=NetLabel113 New Net Name=ENABLE
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetRfbb_1 Pin=U1-4
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRpg_2 Pin=U1-5
+Added Net: Name=NetRpg_2
+Added Pin To Net: NetName=SDA Pin=Feather Shield-28
+Added Net: Name=SDA
+Added Pin To Net: NetName=VUSB Pin=Feather Shield-19
+Added Net: Name=VUSB
+Added Class: Name=DC
+Added Member To Class: ClassName=Nrf52Feather Member=Component C1 EMK107B7105KA-T
+Added Member To Class: ClassName=Nrf52Feather Member=Component C3 EMK107B7105KA-T
+Added Room: Name=DC
+Added Room: Name=Nrf52Feather

@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603X03L_C New Footprint=0603
+Change Component Comment : Designator=C? Old Comment=N.C. New Comment=EMK107B7105KA-T
+Change component parameters: Designator = "C?"; Footprint = "0603"; UniqueID = "\EVPPOFKH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(jst 1mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=XL1 Pin=C?-1
+Added Pin To Net: NetName=XL1 Pin=U1-3
+Added Pin To Net: NetName=XL1 Pin=X?-1
+Added Net: Name=XL1
+Added Pin To Net: NetName=XL2 Pin=C?-1
+Added Pin To Net: NetName=XL2 Pin=U1-4
+Added Pin To Net: NetName=XL2 Pin=X?-2
+Added Net: Name=XL2
+Added Member To Class: ClassName=Nrf52Feather Member=Component C? EMK107B7105KA-T
+Added Member To Class: ClassName=Nrf52Feather Member=Component C? EMK107B7105KA-T
+Added Member To Class: ClassName=Nrf52Feather Member=Component J1 JST 1mm

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VBAT Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=VBAT Pin=U1-10
+Removed Member From Class: ClassName=DC Member=L1
+Removed Member From Class: ClassName=DC Member=U1
+Added Pin To Net: NetName=NFC1 Pin=U1-1
+Added Pin To Net: NetName=TX Pin=U1-2
+Added Pin To Net: NetName=XL1 Pin=U1-3
+Added Pin To Net: NetName=XL2 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetL2_2 Pin=U1-8
+Added Pin To Net: NetName=RTS Pin=U1-10
+Change Net Name : Old Net Name=NetLabel104 New Net Name=31
+Change Net Name : Old Net Name=NetLabel105 New Net Name=27
+Change Net Name : Old Net Name=NetLabel106 New Net Name=15
+Change Net Name : Old Net Name=NetLabel107 New Net Name=7
+Change Net Name : Old Net Name=NetLabel108 New Net Name=16
+Change Net Name : Old Net Name=NetLabel109 New Net Name=11
+Change Net Name : Old Net Name=NetLabel110 New Net Name=30
+Added Net: Name=l31
+Added Net: Name=l32
+Added Net: Name=NetLabel1r5
+Added Net: Name=NetLabelr4
+Added Room: Name=DC
+Added Room: Name=Nrf52Feather

@@ -1,0 +1,7 @@
+Added Component: Designator=D?(SmollLedCree)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://no.mouser.com/ProductDetail/Cree-Inc/CLMVC-FKA-CLBDGL7LBB79353?qs=fSnNYG2PaKLnACIKsEWrKA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D?-1
+Added Member To Class: ClassName=Nrf52Feather Member=Component D? CLMVC-FKA-CLBDGL7LBB79353
+Added Room: Name=Nrf52Feather

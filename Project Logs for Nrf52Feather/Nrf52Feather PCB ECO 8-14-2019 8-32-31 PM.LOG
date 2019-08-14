@@ -1,0 +1,74 @@
+Added Component: Designator=C4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5uF"; VariantName = "[No Variations]"
+Added Component: Designator=L3(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XEL3520-471ME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "XEL3520-471ME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470nH"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402100KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402100KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402511KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402511KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "511k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040290K9FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040290K9FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90.9k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=l32 Pin=L3-1
+Added Pin To Net: NetName=l31 Pin=L3-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=DC Member=Component C4 GRM21BR60J226ME39L
+Added Member To Class: ClassName=DC Member=Component C5 GRM21BR60J226ME39L
+Added Member To Class: ClassName=DC Member=Component C6 GRM21BR60J226ME39L
+Added Member To Class: ClassName=DC Member=Component C7 GENERIC_CAPACITOR
+Added Member To Class: ClassName=DC Member=Component L3 XEL3520-471ME
+Added Member To Class: ClassName=DC Member=Component R4 CRCW0402100KFKED
+Added Member To Class: ClassName=DC Member=Component R5 CRCW0402511KFKED
+Added Member To Class: ClassName=DC Member=Component R6 CRCW040290K9FKED

@@ -1,0 +1,6 @@
+Added Component: Designator=J2(TYPE-C-31-M-12)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Nrf52Feather Member=Component C? EMK107B7105KA-T
+Added Member To Class: ClassName=Nrf52Feather Member=Component C? EMK107B7105KA-T
+Added Member To Class: ClassName=Nrf52Feather Member=Component J2 USB-C
+Added Room: Name=Nrf52Feather

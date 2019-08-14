@@ -1,0 +1,43 @@
+Change Component Comment : Designator=Feather Shield Old Comment=DNP New Comment=2821
+Change Component Library : Designator=Feather Shield Old Library=2821.SchLib New Library=AdafruitFeather.SchLib
+Added Pin To Net: NetName=A0 Pin=U1-9
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=U1-11
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=U1-12
+Added Net: Name=A2
+Added Pin To Net: NetName=NetLabel104 Pin=Feather Shield-24
+Added Net: Name=NetLabel104
+Added Pin To Net: NetName=NetLabel105 Pin=Feather Shield-26
+Added Net: Name=NetLabel105
+Added Pin To Net: NetName=NetLabel106 Pin=Feather Shield-21
+Added Net: Name=NetLabel106
+Added Pin To Net: NetName=NetLabel107 Pin=Feather Shield-22
+Added Net: Name=NetLabel107
+Added Pin To Net: NetName=NetLabel108 Pin=Feather Shield-20
+Added Net: Name=NetLabel108
+Added Pin To Net: NetName=NetLabel109 Pin=Feather Shield-23
+Added Net: Name=NetLabel109
+Added Pin To Net: NetName=NetLabel110 Pin=Feather Shield-25
+Added Net: Name=NetLabel110
+Added Pin To Net: NetName=NetLabel112 Pin=Feather Shield-27
+Added Net: Name=NetLabel112
+Added Pin To Net: NetName=NetLabel113 Pin=Feather Shield-18
+Added Net: Name=NetLabel113
+Added Pin To Net: NetName=NetLabel119 Pin=U1-29
+Added Net: Name=NetLabel119
+Added Pin To Net: NetName=NetLabel120 Pin=U1-25
+Added Net: Name=NetLabel120
+Added Pin To Net: NetName=NetLabel121 Pin=U1-24
+Added Net: Name=NetLabel121
+Added Pin To Net: NetName=NetLabel122 Pin=U1-23
+Added Net: Name=NetLabel122
+Added Pin To Net: NetName=NetLabel123 Pin=U1-28
+Added Net: Name=NetLabel123
+Added Pin To Net: NetName=NetLabel124 Pin=U1-27
+Added Net: Name=NetLabel124
+Added Pin To Net: NetName=NetLabel125 Pin=U1-13
+Added Net: Name=NetLabel125
+Added Pin To Net: NetName=VBAT Pin=Feather Shield-14
+Added Net: Name=VBAT
+Added Room: Name=Nrf52Feather
