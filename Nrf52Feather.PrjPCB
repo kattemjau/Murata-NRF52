@@ -140,6 +140,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XPTALCFS
 
 [Document7]
+DocumentPath=Libs\resistors\Altium footprints, SMD Resistors, 2013-06-08-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DAOQXVUM
+
+[Document8]
 DocumentPath=Libs\NRF91.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFYPHJHV
 
-[Document8]
+[Document9]
 DocumentPath=Libs\24vDCDC\DCDCReg.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMNODFDE
 
-[Document9]
+[Document10]
 DocumentPath=Libs\AdafruitFeather.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIXNRVMW
 
-[Document10]
+[Document11]
 DocumentPath=Libs\NRF91.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLASCCRK
 
-[Document11]
+[Document12]
 DocumentPath=DC.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,9 +241,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEGSCEGJ
 
-[Document12]
+[Document13]
 DocumentPath=Nrf52Feather.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBLYXMCU
 
-[Document13]
+[Document14]
 DocumentPath=Nrf52Feather.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
