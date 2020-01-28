@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPS\Downloads\Murata-NRF52\Project Outputs for Nrf52Feather\Pick Place for Nrf52Feather.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/01/20
+Time:       13:44
+Revision:   0cf13f6da1cfbaeaad979aef556a646d317c8e17
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R9","10K","TopLayer","RES0402","447.047","914.253","180","Resistor, ±5%, 0.05W"
+"D1","1N4148","TopLayer","LED_0603_G","447.047","866.913","0","LED, Green, 0603, 570nm, Vf=1.7V, 2.24..5.6mcd, - 40 to +100°C"
+"C15","100nF","TopLayer","C0402","484.063","722.016","180","Capacitor"
+"R6","1K","TopLayer","RES0402","602.126","551.201","270","Resistor, ±5%, 0.05W"
+"VUSB","TP","TopLayer","TP_SMD_Ø1.0mm","834.457","815.638","90",""
+"L4","1.1nH","TopLayer","IND0402","469.583","2049.212","0","Inductor"
+"GND","TP","TopLayer","TP_SMD_Ø1.0mm","914.367","722.009","0",""
+"C15","1pF","TopLayer","C0402","401.575","2027.559","90","Capacitor"
+"C7","10uF","TopLayer","C0603","839.378","545.173","180","Capacitor"
+"R5","1K","TopLayer","RES0402","748.028","553.150","270","Resistor, ±5%, 0.05W"
+"J2","USB-C","TopLayer","TYPE-C-31-M-12","665.748","346.358","0",""
+"3V3","TP","TopLayer","TP_SMD_Ø1.0mm","778.354","1662.596","90",""
+"C5","10uF","TopLayer","C0603","807.882","1591.088","180","Capacitor"
+"U2","TPS62840DLCR","TopLayer","TPS62840","807.882","1429.911","90","Ultra low IQ Step Down Converter, DLC0008A (VSON-HR-8)"
+"C4","4.7uF","TopLayer","C0603","811.819","1350.025","360","Capacitor"
+"L3","DFE201612E-2R2M=P2","TopLayer","IND0805R","807.882","1530.559","360","DFE201612E-2R2M="
+"R4","267K","TopLayer","RES0603R","888.981","1429.911","90","Resistor, ±5%, 0.05W"
+"U4","CP2104","TopLayer","*QFN50P400X400X80-25N","665.204","751.543","90","USB to UART Bridge"
+"R12","1K","TopLayer","0402","523.622","781.071","90","Resistor, ±5%, 0.05W"
+"C14","EMK107B7105KA-T","TopLayer","0402","655.905","892.716","90","EMK107B7105KA-T"
+"C13","EMK107B7105KA-T","TopLayer","0402","762.205","645.173","360","EMK107B7105KA-T"
+"R8","2M","TopLayer","0402","879.918","1222.614","360","Resistor, ±5%, 0.05W"
+"R7","806K","TopLayer","0402","879.918","1258.047","180","Resistor, ±5%, 0.05W"
+"R3","1K","TopLayer","0402","440.158","1230.488","270","Resistor, ±5%, 0.05W"
+"R2","1K","TopLayer","0402","484.063","1230.488","270","Resistor, ±5%, 0.05W"
+"R1","1K","TopLayer","0402","527.968","1230.488","270","Resistor, ±5%, 0.05W"
+"C10","EMK107B7105KA-T","TopLayer","0402","879.918","1187.181","180","EMK107B7105KA-T"
+"C6","EMK107B7105KA-T","TopLayer","0402","510.925","1779.485","270","EMK107B7105KA-T"
+"C8","EMK107B7105KA-T","TopLayer","0402","481.504","1763.779","270","EMK107B7105KA-T"
+"SWOTCHI","EVP-AA002K","TopLayer","MINISWITCH","499.012","1032.480","0","EVPAA002K = 1.0 N, EVPAAU02Q = 7.0 N"
+"RESET","EVP-AA002K","TopLayer","MINISWITCH","813.973","1032.480","0","EVPAA002K = 1.0 N, EVPAAU02Q = 7.0 N"
+"J1","PRT-14417","TopLayer","JST_1MM","327.476","550.118","270","PRT-14417, jst sh 1mm 4 pin"
+"C3","EMK107B7105KA-T","TopLayer","0402","665.355","1658.071","180","EMK107B7105KA-T"
+"X1","32.768kHz","TopLayer","XTAL_3215","636.995","1715.390","360","XTAL SMD 3215, 32.768kHz, 9pF, ±20ppm"
+"C1","EMK107B7105KA-T","TopLayer","0402","704.724","1860.236","180","EMK107B7105KA-T"
+"C2","EMK107B7105KA-T","TopLayer","0402","609.162","1658.071","360","EMK107B7105KA-T"
+"Diod","CLMVC-FKA-CLBDGL7LBB79353","TopLayer","SMOLLLEDCREE","656.728","1031.496","270","1. common anode 2. blue 3. green 4. red"
+"JTAG","Pin Header 2x5, 1.27mm","TopLayer","HDR_2x5-SMD-1.27mm-K","505.906","1506.299","90","Pin Header 2x5, 1.27mm (50mil), SMD, Keying Shroud"
+"U1","WSM-BL241-ADA-008","TopLayer","*MODULE_WSM-BL241-ADA-008","665.355","2042.323","0","Bluetooth Low Energy/NFC module 1Mbps LGA"
+"L2","10uH","TopLayer","IND0402","836.614","1879.921","90","Inductor"
+"L1","10nH","TopLayer","IND0402","783.465","1860.236","0","Inductor"
+"Feather Shield","2821","TopLayer","*XCVR_2821","656.756","1195.173","90","Adafruit Feather HUZZAH with ESP8266 WiFi"

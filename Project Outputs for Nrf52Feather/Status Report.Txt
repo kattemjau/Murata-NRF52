@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Nrf52Feather.PrjPCB]
+   Generated File[Nrf52Feather_Copper_Signal_Top.gbr]
+   Generated File[Nrf52Feather_Copper_Signal_Bot.gbr]
+   Generated File[Nrf52Feather_Pads_Bot.gbr]
+   Generated File[Nrf52Feather_Pads_Top.gbr]
+   Generated File[Nrf52Feather_Legend_Bot.gbr]
+   Generated File[Nrf52Feather_Soldermask_Bot.gbr]
+   Generated File[Nrf52Feather_Legend_Top.gbr]
+   Generated File[Nrf52Feather_Paste_Top.gbr]
+   Generated File[Nrf52Feather_Soldermask_Top.gbr]
+   Generated File[Nrf52Feather_Mechanical_1.gbr]
+   Generated File[Nrf52Feather_Profile.gbr]
+   Generated File[Nrf52Feather_NPTH_Drill.gbr]
+   Generated File[Nrf52Feather_PTH_Drill.gbr]
+   Generated File[Nrf52Feather_Drawing_1.gbr]
+   Generated File[Nrf52Feather_Drillmap_1.gbr]
+   Generated File[Nrf52Feather.RUL]
+   Generated File[Nrf52Feather.EXTREP]
+   Generated File[Nrf52Feather.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 10:43:39 AM On 1/28/2020
